@@ -1,0 +1,1 @@
+A 1 2 Juliana 11235813211 1810001 Computacao 13 3 18 Matematica_Discreta_I BCC101 Computacao 8 104 Estrutura_de_Dados_I BCC201 Computacao 8 102 1 2 25 1 12 Joao 2 22 0 3 0 B 1 2 Dayanne 12345678901 Decom Matematica_Discreta_I BCC101 Computacao 6 101 Calculo_II MTM123 Matematica 8 1 2 2 2 22 2 0 3 0 j 

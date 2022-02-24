@@ -1,0 +1,9 @@
+1 1 2 Julia 12345678901 1810001 Computacao 10 3 2018
+Joao 98765432101 18010002 Computacao 10 3 2018
+2 22 1 Eduarda 3 32 1 4 42 0
+2 1 2 Dayanne 01123581321 Decom
+Amanda 12318532110 Decom
+2 23 1 Demat 3 33 1 4 41 2 4 42 0 
+3 1 2 Matematica_Discreta BCC101 8 Matematica 104
+Estrutura_de_Dados BCC202 8 Computacao 106
+2 24 1 Computacao 3 34 4 42 0 0
